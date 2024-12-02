@@ -1,12 +1,13 @@
 # SBB_Chamber
 ## This is a 3D printable file for a modified 4 Well chamber which facilitates Sudan Black B assays in tissue slices.
-![image](https://github.com/user-attachments/assets/dc42dc9c-b9a7-476c-b131-fccba101c4fe)
 
 The modified chamber provides two main advantages:
 - Enhances efficiency of the assay by reducing the chances of loosing sample slices due to the opacity of the liquid or careless handling
 - Allows the experiment to be run on multiple slices simultaneously without dramatically increasing the time of the assay
 - Achieves an important reduction on antibody usage
 - Permits to expose the tissue slices to a homogeneous antibody mixture which in turn improves control reproducibility
+
+![image](https://github.com/user-attachments/assets/dc42dc9c-b9a7-476c-b131-fccba101c4fe)
 
 To properly use the chamber, you should:
 1. Place a net (such as nylon thights) tightly covering the bottom of the 4 well chamber
